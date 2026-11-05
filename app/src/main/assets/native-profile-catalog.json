@@ -1,0 +1,686 @@
+{
+  "schema": 1,
+  "provenance": {
+    "source": "tmp/device-debug-20261021/effective-profile-data.json",
+    "sourceSha256": "8fd01b41c50af616cf49ea403ced6efe3ab195efc358ae1b7f5ecf33fca34831",
+    "capturedAt": "2026-10-21",
+    "model": "PD2352",
+    "deviceModel": "V2352GA",
+    "androidSdk": 36,
+    "gamecubeVersion": "14.0.10.00_de",
+    "gamecubeVersionCode": 1401000,
+    "gamecubeApkSha256": "924a0700a9c64ac2f2f3af90197ec1907c021a9094312a8f8b2255efc8cc3c7e"
+  },
+  "frames": [
+    {
+      "packageName": "com.tencent.tmgp.sgame",
+      "label": "王者荣耀",
+      "channel": "vivo",
+      "index": 10,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [],
+      "power": [
+        {
+          "gameFps": 120,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ]
+    },
+    {
+      "packageName": "com.tencent.tmgp.sgamece",
+      "label": "王者荣耀",
+      "channel": "#",
+      "index": 10,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [],
+      "power": [
+        {
+          "gameFps": 120,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ]
+    },
+    {
+      "packageName": "com.tencent.tmgp.pubgmhd",
+      "label": "和平精英",
+      "channel": "vivo",
+      "index": 0,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 90,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.tencent.tmgp.cf",
+      "label": "穿越火线",
+      "channel": "vivo",
+      "index": 13,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [],
+      "power": [
+        {
+          "gameFps": 120,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ]
+    },
+    {
+      "packageName": "com.netease.hyxd.vivo",
+      "label": "荒野行动",
+      "channel": "vivo",
+      "index": 21,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [],
+      "power": [
+        {
+          "gameFps": 120,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ]
+    },
+    {
+      "packageName": "com.netease.hyxd",
+      "label": "荒野行动",
+      "channel": "#",
+      "index": 21,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [],
+      "power": [
+        {
+          "gameFps": 120,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ]
+    },
+    {
+      "packageName": "com.tencent.tmgp.speedmobile",
+      "label": "QQ飞车",
+      "channel": "vivo",
+      "index": 25,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [],
+      "power": [
+        {
+          "gameFps": 120,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ]
+    },
+    {
+      "packageName": "com.miHoYo.hkrpg",
+      "label": "崩坏·星穹铁道",
+      "channel": "#",
+      "index": 29,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.netease.moba.vivo",
+      "label": "决战平安京",
+      "channel": "vivo",
+      "index": 14,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 90,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.netease.moba",
+      "label": "决战平安京",
+      "channel": "*",
+      "index": 14,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 90,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.tencent.KiHan",
+      "label": "火影忍者",
+      "channel": "vivo",
+      "index": 27,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [],
+      "power": [
+        {
+          "gameFps": 120,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ]
+    },
+    {
+      "packageName": "com.tencent.mf.uam",
+      "label": "暗区突围",
+      "channel": "vivo",
+      "index": 23,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [],
+      "power": [
+        {
+          "gameFps": 120,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ]
+    },
+    {
+      "packageName": "com.nebulajoy.nero.vivo",
+      "label": "鬼泣",
+      "channel": "#",
+      "index": 5,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.nebulajoy.nero.opensdk",
+      "label": "鬼泣",
+      "channel": "#",
+      "index": 5,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.tencent.tmgp.cod",
+      "label": "使命召唤",
+      "channel": "vivo",
+      "index": 9,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [],
+      "power": [
+        {
+          "gameFps": 144,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ]
+    },
+    {
+      "packageName": "com.tencent.tmgp.WePop",
+      "label": "跑跑卡丁车",
+      "channel": "vivo",
+      "index": 28,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [],
+      "power": [
+        {
+          "gameFps": 120,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ]
+    },
+    {
+      "packageName": "com.netease.nshm.vivo",
+      "label": "逆水寒",
+      "channel": "vivo",
+      "index": 32,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.netease.nshm",
+      "label": "逆水寒",
+      "channel": "#",
+      "index": 32,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.netease.dfjs.vivo",
+      "label": "巅峰极速",
+      "channel": "vivo",
+      "index": 31,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.netease.race",
+      "label": "巅峰极速",
+      "channel": "#",
+      "index": 31,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.tencent.tmgp.gnyx",
+      "label": "高能英雄",
+      "channel": "vivo",
+      "index": 35,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 90,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.hermes.h1game",
+      "label": "航海王热血航线",
+      "channel": "#",
+      "index": 20,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.hermes.h1game.vivo",
+      "label": "航海王热血航线",
+      "channel": "vivo",
+      "index": 20,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.pwrd.hotta.laohu",
+      "label": "幻塔",
+      "channel": "#",
+      "index": 17,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.games.hotta.vivo",
+      "label": "幻塔",
+      "channel": "vivo",
+      "index": 17,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.netease.mrzh",
+      "label": "明日之后",
+      "channel": "#",
+      "index": 19,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.netease.mrzh.vivo",
+      "label": "明日之后",
+      "channel": "vivo",
+      "index": 19,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.netease.mrzh.m4399",
+      "label": "明日之后",
+      "channel": "vivo",
+      "index": 19,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.tencent.tmgp.djsy",
+      "label": "妄想山海",
+      "channel": "vivo",
+      "index": 15,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.netease.aceracer",
+      "label": "王牌竞速",
+      "channel": "#",
+      "index": 18,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.netease.aceracer.vivo",
+      "label": "王牌竞速",
+      "channel": "vivo",
+      "index": 18,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.miHoYo.Yuanshen",
+      "label": "原神",
+      "channel": "#",
+      "index": 3,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.miHoYo.ys.bilibili",
+      "label": "原神",
+      "channel": "bilibili",
+      "index": 3,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 45,
+          "interFps": 90
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.tencent.lolm",
+      "label": "英雄联盟手游",
+      "channel": "vivo",
+      "index": 16,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 90,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ],
+      "power": []
+    },
+    {
+      "packageName": "com.tencent.letsgo",
+      "label": "元梦之星",
+      "channel": "vivo",
+      "index": 36,
+      "sdk": false,
+      "monsterPlus": 0,
+      "boost": [
+        {
+          "gameFps": 60,
+          "depressFps": 60,
+          "interFps": 120
+        }
+      ],
+      "power": []
+    }
+  ],
+  "sr": [
+    {
+      "packageName": "com.tencent.tmgp.cf",
+      "label": "穿越火线",
+      "channel": "vivo",
+      "index": -1,
+      "state": 1,
+      "monsterPlus": 0,
+      "frameDepress": -1,
+      "frameInter": -1,
+      "highDepress": -1,
+      "highInter": -1
+    },
+    {
+      "packageName": "com.tencent.KiHan",
+      "label": "火影忍者",
+      "channel": "vivo",
+      "index": -1,
+      "state": 1,
+      "monsterPlus": 0,
+      "frameDepress": -1,
+      "frameInter": -1,
+      "highDepress": -1,
+      "highInter": -1
+    },
+    {
+      "packageName": "com.hermes.h1game",
+      "label": "航海王热血航线",
+      "channel": "*",
+      "index": -1,
+      "state": 1,
+      "monsterPlus": 0,
+      "frameDepress": -1,
+      "frameInter": -1,
+      "highDepress": -1,
+      "highInter": -1
+    },
+    {
+      "packageName": "com.hermes.h1game.vivo",
+      "label": "航海王热血航线",
+      "channel": "vivo",
+      "index": -1,
+      "state": 1,
+      "monsterPlus": 0,
+      "frameDepress": -1,
+      "frameInter": -1,
+      "highDepress": -1,
+      "highInter": -1
+    },
+    {
+      "packageName": "com.tencent.tmaoe",
+      "label": "重返帝国",
+      "channel": "vivo",
+      "index": -1,
+      "state": 1,
+      "monsterPlus": 0,
+      "frameDepress": -1,
+      "frameInter": -1,
+      "highDepress": -1,
+      "highInter": -1
+    },
+    {
+      "packageName": "com.tencent.wmsj",
+      "label": "完美世界",
+      "channel": "vivo",
+      "index": -1,
+      "state": 1,
+      "monsterPlus": 0,
+      "frameDepress": -1,
+      "frameInter": -1,
+      "highDepress": -1,
+      "highInter": -1
+    },
+    {
+      "packageName": "com.netease.party.vivo",
+      "label": "蛋仔派对",
+      "channel": "vivo",
+      "index": -1,
+      "state": 1,
+      "monsterPlus": 0,
+      "frameDepress": -1,
+      "frameInter": -1,
+      "highDepress": -1,
+      "highInter": -1
+    },
+    {
+      "packageName": "com.netease.dwrg",
+      "label": "第五人格",
+      "channel": "*",
+      "index": -1,
+      "state": 1,
+      "monsterPlus": 0,
+      "frameDepress": -1,
+      "frameInter": -1,
+      "highDepress": -1,
+      "highInter": -1
+    },
+    {
+      "packageName": "com.netease.dwrg5.vivo",
+      "label": "第五人格",
+      "channel": "vivo",
+      "index": -1,
+      "state": 1,
+      "monsterPlus": 0,
+      "frameDepress": -1,
+      "frameInter": -1,
+      "highDepress": -1,
+      "highInter": -1
+    }
+  ]
+}

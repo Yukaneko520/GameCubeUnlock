@@ -1,0 +1,11 @@
+# UI source attribution
+
+GameCube Unlock's manager UI adapts Compose layouts from:
+
+- SukiSU-Ultra contributors, `HomeMaterial.kt` and `SuperUserMaterial.kt`, tag v4.2.1, commit `fd2a85151c8312fd9b4237db9ba827dcea692228`: https://github.com/SukiSU-Ultra/SukiSU-Ultra/tree/fd2a85151c8312fd9b4237db9ba827dcea692228/manager
+- KernelSU contributors, `Home.kt` status-card structure, tag v1.0.5, commit `61c0f7f849aaca299fb42516bc8fc516cefe0d59`: https://github.com/tiann/KernelSU/tree/61c0f7f849aaca299fb42516bc8fc516cefe0d59/manager
+- KernelSU contributors, MIUIX app-list scroll/refresh/header arrangement, commit `6d31a61370838380177dc5c46fb838f6ba7d639a`: https://github.com/tiann/KernelSU/blob/6d31a61370838380177dc5c46fb838f6ba7d639a/manager/app/src/main/java/me/weishu/kernelsu/ui/screen/superuser/SuperUserMiuix.kt . Adapted for installed-app rules and inline search; no root-access or app-grouping logic imported.
+
+The adapted manager is distributed under GPL-3.0-only; see the bundled `assets/licenses/LICENSE`. Changes: GameCube configuration state instead of root state, a clipped check-circle matching the supplied screenshot, app/device/Android/GameCube info, per-app GameCube rules instead of superuser grants, bilingual controls, and bounded diagnostic logs. KernelSU/SukiSU native code, daemon, root grants, reboot and installation actions were not imported.
+
+Other libraries retain their respective licenses, including Compose/AndroidX, MIUIX and libxposed. Source references retained in `tmp/*ui-reference/` are research material and are not packaged in the APK.
